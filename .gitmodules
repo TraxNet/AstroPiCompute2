@@ -1,0 +1,3 @@
+[submodule "JLCKicadTools"]
+	path = JLCKicadTools
+	url = https://github.com/matthewlai/JLCKicadTools.git
