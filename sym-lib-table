@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name project_custom_symbols)(type Legacy)(uri ${KIPRJMOD}/project_custom_symbols.lib)(options "")(descr ""))
+  (lib (name astro_compute_board-rescue)(type Legacy)(uri ${KIPRJMOD}/astro_compute_board-rescue.lib)(options "")(descr ""))
 )
