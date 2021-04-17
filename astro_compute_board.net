@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/traxnet/Documentos/AstroPiCompute2/astro_compute_board.sch)
-    (date "mar 13 apr 2021, 15:46:47")
+    (date "mar 13 apr 2021, 19:37:44")
     (tool "Eeschema 5.1.9")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
